@@ -1,0 +1,41 @@
+html{
+  font-size: 32px;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+}
+
+
+.jumbotron{
+  background-image: url("https://images.pexels.com/photos/358628/pexels-photo-358628.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  color: white;
+  margin-top: 50px;
+  position: static;
+  margin-bottom: 50px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.page-header{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.container{
+  margin-bottom:55px;
+}
+
+.underline{
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.underline.main-title{
+  font-size: 85px;
+}
+
+.page-header{
+  margin-bottom: 50px;
+}
